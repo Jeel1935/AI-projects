@@ -1,3 +1,4 @@
-# AI-project-with-Titanic-dataset-using-python
+# AI-code-with-Titanic-dataset-using-python
 
-I have developed AI code for Titanic dataset in Machine Learning using Python.
+The capacity of what a human mind can do has always baffled me. One such major invention would be what is called as AI.
+And that's why I implemented AI algorithms with Python to learning somthing new using Titanic data set.
